@@ -55,6 +55,8 @@ The system is designed for small businesses that want data-driven decision suppo
     - [Revenue Forecast](#revenue-forecast)
     - [AI Business Insights](#ai-business-insights)
     - [PDF Report](#pdf-report)
+  - [Project Evidence](#project-evidence)
+    - [Live Demo](#live-demo)
   - [Business Value](#business-value)
     - [Monthly Subscription](#monthly-subscription)
     - [One-Time Dashboard Build](#one-time-dashboard-build)
@@ -384,6 +386,22 @@ python run_all_tests.py
 
 ![PDF Report](screenshots/06_pdf_report.png)
 
+## Project Evidence
+
+The project was tested across the major application components, including:
+
+- Dashboard and KPI calculations
+- Interactive business analytics
+- 30-day revenue forecasting
+- AI-generated business insights
+- PDF report generation
+- Automated test suite
+- Public GitHub repository
+- Live Streamlit deployment
+
+### Live Demo
+
+[Open Live Dashboard](https://safex-task5-ai-business-intelligence-dashboard-pbvf8mnkvmc3aj8.streamlit.app/)
 ## Business Value
 
 The dashboard is designed around a simple business proposition:
